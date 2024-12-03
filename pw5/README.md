@@ -1,0 +1,29 @@
+# Practical Work 5
+
+This project contains codes for DSA Practical Work 5
+
+
+## Project Structure
+- `include/`: Header files.
+- `src/`: Source code.
+- `test/`: Test files.
+- `Makefile`: Compilation automation.
+
+## Build and Run
+1. Build the project:
+
+   ```bash
+    make
+    ```
+
+2. Run the project:
+
+    ```bash
+    ./main
+    ```
+3. Clean the bins:
+
+    ```bash
+    make clean
+    ```
+
