@@ -1,0 +1,35 @@
+# Practical Work 5
+
+This project contains codes for DSA Practical Work 6. (Press Ctrl + Shift + V)
+
+
+Compile and test on `debian` based systems(ubuntu, kali).
+
+
+## Project Structure
+- `include/`: Header files.
+- `src/`: Source code.
+- `test/`: Test files.
+- `Makefile`: Compilation automation.
+
+## Build and Run
+1. Build the project:
+
+   ```bash
+    make
+    ```
+
+2. Run the project:
+
+    ```bash
+    ./main
+    ```
+3. Clean the bins:
+
+    ```bash
+    make clean
+    ```
+
+4. Here is some random numbers for ya :
+
+822 654 106 557 442 935 846 537 577 271 799 462 516 73 928 813 135 419 203 450 97 544 963 822 593 63 233 526 319 56 163 842 242 716 234 483 362 767 902 452 830 805 453 980 571 387 189 656 990 569 675 635 801 500 712 805 64 75 274 228 280 509 837 476 447 20 180 464 705 511 270 667 915 710 758 151 266 353 648 208 725 403 385 880 160 341 391 579 240 437 68 776 515 213 322 147 814 338 319 694 996 233 428 859 109 748 582 669 830 527 615 472 685 959 687 740 19 176 430 464 809 569 177 752 568 418 574 18 196 156 229 44 583 763 667 794 743 634 456 635 877 427 170 116 813 974 798 432 295 412 4 320 167 916 224 109 481 249 965 111 741 578 93 124 291 914 877 489 267 74 922 893 101 833 245 37 128 244 749 315 792 365 176 265 406 317 336 883 301 359 205 146 345 361 657 102 976 830 749 610
